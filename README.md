@@ -1,7 +1,7 @@
-#Chronomancy
+# Chronomancy
 
-##CONTROLS:
-###Mouse/Keyboard:
+## CONTROLS:
+### Mouse/Keyboard:
 - Pause Game: Q		
 - Move: WASD
 - Turn: Move Mouse
@@ -10,7 +10,7 @@
 - Interact: E
 - Open/Close Watch: Right Click
 - Use Watch: Left Click
-###Gamepad:
+### Gamepad:
 - Pause Game: Start		
 - Move: Left Analog Stick
 - Turn: Right Analog Stick
@@ -20,7 +20,7 @@
 - Open/Close Watch: Right Bumper/R1
 - Use Watch: Left Bumper/L1
 
-##NOTES:
+## NOTES:
 - If you want to play through/see everything in the game faster, you can change your move/sprint speed in the pause menu. I would recommend not doing this, but it will get you from point A to point B much faster.
 - The central mechanic of the game is found inside the cabin with the smoking chimney after talking to the person inside, so be sure to explore that area.
 - All models made + used can be found under the "Maya" folder, which also contains .anim files for some animations.
@@ -28,21 +28,21 @@
 - If you want, you can jump past the terrain walls and "explore" the outside of the map.
 
 
-##Credits: 
+## Credits: 
 Music by Ben Cohen (friend)
-###Sounds:
+### Sounds:
 - Fire Crackling from https://opengameart.org/content/fireplace-sound-loop
 - Walking through Waterwheel from https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
 - Walking on Grass and Wood from https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
 - Ticking Clock from https://opengameart.org/content/ticking-clock-0
-###Textures:
+### Textures:
 - Water from Unity Standard Assets
 - Grass and Flower Textures from "Grass Flowers Pack Free" on Unity Asset Store
 - Cork from https://opengameart.org/content/cork-board-seamless-with-normalmap
 - Bark from https://opengameart.org/content/seamless-tiling-tree-bark-texture
-###Animations:
+### Animations:
 - Character idle and movement animations from Unity Standard Assets
-###Controls:
+### Controls:
 - First Person Controller from Unity Standard Assets
 		
 Everything else (models, animations, game logic/scripts, other sounds, etc...) by Aaron Winter
